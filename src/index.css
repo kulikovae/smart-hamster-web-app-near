@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Cairo', sans-serif !important;
+  background-color: #000000 !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
