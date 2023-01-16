@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/smart-hamster-web-app-near/static/css/main.55cdec1b.chunk.css",
+    "main.js": "/smart-hamster-web-app-near/static/js/main.effc364b.chunk.js",
+    "main.js.map": "/smart-hamster-web-app-near/static/js/main.effc364b.chunk.js.map",
+    "runtime-main.js": "/smart-hamster-web-app-near/static/js/runtime-main.0d9d5752.js",
+    "runtime-main.js.map": "/smart-hamster-web-app-near/static/js/runtime-main.0d9d5752.js.map",
+    "static/css/2.2e2f00ef.chunk.css": "/smart-hamster-web-app-near/static/css/2.2e2f00ef.chunk.css",
+    "static/js/2.0cc414e4.chunk.js": "/smart-hamster-web-app-near/static/js/2.0cc414e4.chunk.js",
+    "static/js/2.0cc414e4.chunk.js.map": "/smart-hamster-web-app-near/static/js/2.0cc414e4.chunk.js.map",
+    "index.html": "/smart-hamster-web-app-near/index.html",
+    "static/css/2.2e2f00ef.chunk.css.map": "/smart-hamster-web-app-near/static/css/2.2e2f00ef.chunk.css.map",
+    "static/css/main.55cdec1b.chunk.css.map": "/smart-hamster-web-app-near/static/css/main.55cdec1b.chunk.css.map",
+    "static/js/2.0cc414e4.chunk.js.LICENSE.txt": "/smart-hamster-web-app-near/static/js/2.0cc414e4.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/smart-hamster-web-app-near/static/media/watcher.2b9b5770.jpeg",
+    "static/media/bootstrap-icons.css": "/smart-hamster-web-app-near/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/forta.3c6ea41f.svg": "/smart-hamster-web-app-near/static/media/forta.3c6ea41f.svg",
+    "static/media/logo.6715d62e.svg": "/smart-hamster-web-app-near/static/media/logo.6715d62e.svg",
+    "static/media/logoShort.01e45c56.png": "/smart-hamster-web-app-near/static/media/logoShort.01e45c56.png",
+    "static/media/moonbeam.df3b323a.svg": "/smart-hamster-web-app-near/static/media/moonbeam.df3b323a.svg",
+    "static/media/streamr.99ee748c.png": "/smart-hamster-web-app-near/static/media/streamr.99ee748c.png",
+    "static/media/tree.aa679c39.jpg": "/smart-hamster-web-app-near/static/media/tree.aa679c39.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d9d5752.js",
+    "static/css/2.2e2f00ef.chunk.css",
+    "static/js/2.0cc414e4.chunk.js",
+    "static/css/main.55cdec1b.chunk.css",
+    "static/js/main.effc364b.chunk.js"
+  ]
+}
