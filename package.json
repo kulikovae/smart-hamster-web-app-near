@@ -1,6 +1,6 @@
 {
   "name": "smart-hamster-web-app",
-  "homepage": "https://smarthamster.tech",
+  "homepage": "https://kulikovae.github.io/smart-hamster-web-app-near",
   "version": "1.0.0",
   "description": "Курс по нодам для криптовалютных проектов. Купить курс по нодам. Установка, помощь, криптокомьюнити.",
   "private": true,
@@ -35,7 +35,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
