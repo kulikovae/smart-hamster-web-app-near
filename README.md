@@ -1,3 +1,7 @@
+# Smart Hamster Web App
+Web3 dapp, based on Near Blockchain to create/promote and sell education courses 
+https://kulikovae.github.io/smart-hamster-web-app-near
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
