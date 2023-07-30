@@ -1,0 +1,10 @@
+{
+  "name": "smart-hamster-web-app-near-contract",
+  "version": "1.0.0",
+  "description": "contract for sm webb app marcet",
+  "main": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
